@@ -1,11 +1,16 @@
 _repo: The-Doctrines-and-Discipline-of-the-Colored-Methodist-Episcopal-Church-Revised-Edition-1918_66484
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66484-h/images/cover.jpg
 creator:
   author:
     agent_name: Church, Colored Methodist Episcopal
     gutenberg_agent_id: '53836'
     url: http://www.gutenberg.org/2009/agents/53836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66484#The-Doctrines-and-Discipline-of-the-Colored-Methodist-Episcopal-Church-Revised-Edition-1918
 gutenberg_issued: '2021-10-07'
 identifiers:
   gutenberg: '66484'
